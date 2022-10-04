@@ -8,3 +8,9 @@ Stage1: https://colab.research.google.com/drive/1zCnM0tmCi_5PEwOrNpb3XupuqtC0bqG
 Stage2: https://colab.research.google.com/drive/1CdLqOC1iq6KYkyboX_pKgZK8bNNI2kcr?usp=sharing
 
 Stage3: https://colab.research.google.com/drive/1f7DFOuXaGaybWijscGoqRtFtYPZ6Hx2Y?usp=sharing
+
+
+
+To cite the MetaFlow repository in your academic publications, please use the following reference.
+
+https://doi.org/10.1109/ICCES54031.2021.9686184
